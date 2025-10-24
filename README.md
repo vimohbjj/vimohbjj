@@ -1,5 +1,3 @@
-# Hi, I'm Vicenzo!
-
 ## About myself 
 Software developer sharing my journey and learning web development and apps
 
