@@ -8,3 +8,4 @@ Software developer sharing my journey and learning web development and apps
 - [Information of Technology Analyst](https://eduterciaria.utu.edu.uy/2024/06/18/tecnologo-en-informatica) at School of Computer Science UTU (2023 - 2025)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimohbjj&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
