@@ -1,5 +1,5 @@
 ## About myself 
-Software developer sharing my journey and learning web development and apps
+Advanced student of Information Technology Analyst with an intermediate degree in Web Programming, experienced in developing scalable and robust web applications.
 
 ## Education
 - [Information of Technology Analyst](https://fi.ort.edu.uy/analista-en-tecnologias-de-la-informacion) at University of Engineering ORT (2023 - present)
