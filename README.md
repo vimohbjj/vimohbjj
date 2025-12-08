@@ -8,6 +8,3 @@ Advanced student of Information Technology Analyst with an intermediate degree i
 - [Information of Technology Technologyst](https://eduterciaria.utu.edu.uy/2024/06/18/tecnologo-en-informatica) at School of Computer Science UTU (May 2023 - Dec 2025)
 
 ### My [Portafolio](https://vimohbjj.github.io/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimohbjj&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
