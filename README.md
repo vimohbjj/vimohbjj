@@ -8,7 +8,6 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
 
 </div>
 
----
 
 <h2 align="center"> Employment History</h2>
 
@@ -19,7 +18,6 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
 - Implementing responsive designs and hybrid mobile apps with Ionic
 - Managing SQL Server databases in production environments
 
----
 
 <h2 align="center"> Projects</h2>
 
@@ -37,7 +35,6 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
 - Built a complete session management system with full **CRUD functionality** and live data updates
 - Created **dynamic filtering features** and data aggregation for daily, weekly, and monthly training statistics
 
----
 
 <h2 align="center"> Tech Stack</h2>
 
@@ -47,7 +44,6 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
   <strong>Tools:</strong> Git · SQL Server Management Studio
 </p>
 
----
 
 <h2 align="center"> Education</h2>
 
@@ -57,7 +53,6 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
 | [Web Developer](https://drive.google.com/file/d/1XAitRof6mxgevTNlcwwcnU0CLNQa1LHm/view?usp=sharing) *(GPA: 92%)* | ORT University | Aug 2023 - Jul 2025 |
 | [IT Technologist](https://eduterciaria.utu.edu.uy/2024/06/18/tecnologo-en-informatica) | UTU | Mar 2023 - Nov 2025 |
 
----
 
 <h2 align="center"> Languages</h2>
 
@@ -65,7 +60,6 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
   🇬🇧 English (B2 Cambridge) · 🇪🇸 Spanish (Native) · 🇧🇷 Portuguese (Native)
 </p>
 
----
 
 <h2 align="center">🔗 Links</h2>
 
@@ -81,6 +75,5 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
   </a>
 </p>
 
----
 
 <p align="center"><em>Open to new opportunities. Let's connect!</em></p>
