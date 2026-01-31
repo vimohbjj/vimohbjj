@@ -1,5 +1,8 @@
 ## About myself 
-Advanced student of Information Technology Analyst with an intermediate degree in Web Programming, experienced in developing scalable and robust web applications.
+Information Technology Analyst with an intermediate degree in Web Programming, experienced in developing scalable and robust web applications.
+
+## Employment History
+Desarrollador Fullstack at TotoCalzados 2025 - Present [WorkAccount](https://github.com/vicenzomh?tab=overview&from=2026-01-01&to=2026-01-31)
 
 ## Education
 - [Information of Technology Analyst](https://fi.ort.edu.uy/analista-en-tecnologias-de-la-informacion) at University of Engineering ORT (May 2025 - present)
