@@ -12,7 +12,7 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
 
 <h2 align="center"> Employment History</h2>
 
-### Fullstack Developer @ TotoCalzados
+### Fullstack Developer @ [Toto Calzados](https://github.com/TOTO-IT)
 *2025 - Present* · [View activity →](https://github.com/vicenzomh)
 
 - Building RESTful APIs with .NET and frontend applications with Angular
