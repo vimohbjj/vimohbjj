@@ -1,13 +1,86 @@
-## About myself 
-Information Technology Analyst with an intermediate degree in Web Programming, experienced in developing scalable and robust web applications.
+<div align="center">
+  
+# Hey there! I'm Vicenzo Moneta
 
-## Employment History
-Desarrollador Fullstack at TotoCalzados 2025 - Present [WorkAccount](https://github.com/vicenzomh?tab=overview&from=2026-01-01&to=2026-01-31)
+**Fullstack Developer** based in Montevideo, Uruguay 🇺🇾
 
-## Education
-- [Information of Technology Analyst](https://fi.ort.edu.uy/analista-en-tecnologias-de-la-informacion) at University of Engineering ORT (May 2025 - present)
-- [Programmer Analyst](https://fi.ort.edu.uy/analista-programador?utm_source=google&utm_medium=cpc&utm_campaign=SEARCH_2407_AP_Analista-programador&utm_adgroup=AP_Analista-Programador&utm_content=AP&utm_term=analista%20programador%20ort&matchtype=b&campaignid=21463381412&adgroupid=161977188862&creativeid=715452643406&device=c&network=g&placement=&loc_physical_ms=9222317&loc_interest_ms=&gad_source=1&gad_campaignid=21463381412&gclid=CjwKCAjwx-zHBhBhEiwA7Kjq635800gUzIg-qQtl2wHUZ96zbxPsYrjWDjkwiNqUsys3I4nghS-WZRoCD68QAvD_BwE) at University of Engineering ORT (May 2025 - present)
-- [Web Developer](https://fi.ort.edu.uy/analista-programador?utm_source=google&utm_medium=cpc&utm_campaign=SEARCH_2407_AP_Analista-programador&utm_adgroup=AP_Analista-Programador&utm_content=AP&utm_term=programador&matchtype=b&campaignid=21463381412&adgroupid=161977188862&creativeid=715452643406&device=c&network=g&placement=&loc_physical_ms=9222317&loc_interest_ms=&gad_source=1&gad_campaignid=21463381412&gclid=CjwKCAjwx-zHBhBhEiwA7Kjq69Ctha8gfjXF-G37bxEEQczFXFAJU_UwDtsEGf-7mwePY4sCDeFesBoCkbMQAvD_BwE) at University of Engineering ORT (Agu 2023 - Feb 2025)
-- [Information of Technology Technologyst](https://eduterciaria.utu.edu.uy/2024/06/18/tecnologo-en-informatica) at School of Computer Science UTU (May 2023 - Dec 2025)
+Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experienced in building robust and scalable web applications, designing normalized database architectures, developing RESTful APIs, and implementing real-time data visualizations with Chart.js.
 
-### My [Portafolio](https://vimohbjj.github.io/)
+</div>
+
+---
+
+<h2 align="center"> Employment History</h2>
+
+### Fullstack Developer @ TotoCalzados
+*2025 - Present* · [View activity →](https://github.com/vicenzomh)
+
+- Building RESTful APIs with .NET and frontend applications with Angular
+- Implementing responsive designs and hybrid mobile apps with Ionic
+- Managing SQL Server databases in production environments
+
+---
+
+<h2 align="center"> Projects</h2>
+
+### Fullstack Developer @ Housing Cooperative Management System *(Academic - UTU)*
+*Jun 2025 - Nov 2025* · [GitHub](LINK)
+
+- Led the team as **Scrum Master**, facilitating daily standups, sprint planning, and retrospectives
+- **Designed and implemented the database architecture**, creating normalized schemas and optimizing queries
+- Developed full-stack features using PHP Laravel 11, building RESTful APIs and interactive frontend components
+
+### Frontend Developer @ Gym Management System *(Academic - ORT)*
+*Jan 2025 - Mar 2025* · [GitHub](LINK)
+
+- Implemented **real-time data visualizations** using Chart.js and Recharts for training metrics and trends
+- Built a complete session management system with full **CRUD functionality** and live data updates
+- Created **dynamic filtering features** and data aggregation for daily, weekly, and monthly training statistics
+
+---
+
+<h2 align="center"> Tech Stack</h2>
+
+<p>
+  <strong>Backend:</strong> Laravel · .NET · Java · PHP · RESTful APIs · SQL · Data Structures · Algorithms<br>
+  <strong>Frontend:</strong> React · Angular · Ionic · TypeScript · HTML · CSS · Bootstrap · Tailwind<br>
+  <strong>Tools:</strong> Git · SQL Server Management Studio
+</p>
+
+---
+
+<h2 align="center"> Education</h2>
+
+| Degree | Institution | Period |
+|:------:|:-----------:|:------:|
+| [Information Technology Analyst](https://drive.google.com/file/d/1pS-CQ_-fJY8ZYJ_fdmTNzz7AtuF0y1YL/view?usp=sharing) | ORT University | Aug 2023 - Present |
+| [Web Developer](https://drive.google.com/file/d/1XAitRof6mxgevTNlcwwcnU0CLNQa1LHm/view?usp=sharing) *(GPA: 92%)* | ORT University | Aug 2023 - Jul 2025 |
+| [IT Technologist](https://eduterciaria.utu.edu.uy/2024/06/18/tecnologo-en-informatica) | UTU | Mar 2023 - Nov 2025 |
+
+---
+
+<h2 align="center"> Languages</h2>
+
+<p align="center">
+  🇬🇧 English (B2 Cambridge) · 🇪🇸 Spanish (Native) · 🇧🇷 Portuguese (Native)
+</p>
+
+---
+
+<h2 align="center">🔗 Links</h2>
+
+<p align="center">
+  <a href="https://vimohbjj.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/vicenzo-halley-moneta-hernandez-8176992bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:monetavicenzo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center"><em>Open to new opportunities. Let's connect!</em></p>
