@@ -22,14 +22,14 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
 <h2 align="center"> Projects</h2>
 
 ### Fullstack Developer @ Housing Cooperative Management System *(Academic - UTU)*
-*Jun 2025 - Nov 2025* · [GitHub](LINK)
+*Jun 2025 - Nov 2025* · [GitHub link](https://github.com/DigitalityUTU)
 
 - Led the team as **Scrum Master**, facilitating daily standups, sprint planning, and retrospectives
 - **Designed and implemented the database architecture**, creating normalized schemas and optimizing queries
 - Developed full-stack features using PHP Laravel 11, building RESTful APIs and interactive frontend components
 
 ### Frontend Developer @ Gym Management System *(Academic - ORT)*
-*Jan 2025 - Mar 2025* · [GitHub](LINK)
+*Jan 2025 - Mar 2025* · [GitHub link](https://github.com/vimohbjj/gym-management-system)
 
 - Implemented **real-time data visualizations** using Chart.js and Recharts for training metrics and trends
 - Built a complete session management system with full **CRUD functionality** and live data updates
