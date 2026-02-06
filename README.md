@@ -1,4 +1,4 @@
-<div align="center">
+lo<div align="center">
 
 # Hey there! I’m Vicenzo Moneta
 
@@ -82,5 +82,5 @@ Proficient in modern stacks including PHP Laravel, React, and TypeScript. Experi
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-https://github-profile-trophy.vercel.app/?username=vimohbjj
+
 <p align="center"><em>Open to new opportunities. Let's connect!</em></p>
