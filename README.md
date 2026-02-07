@@ -1,4 +1,4 @@
-lo<div align="center">
+<div align="center">
 
 # Hey there! I’m Vicenzo Moneta
 
