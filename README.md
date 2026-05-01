@@ -8,7 +8,7 @@ Specialized in **.NET Web API** and **Angular**, with proven experience in scala
 
 </div>
 
----
+
 
 <h2 align="center">Experience</h2>
 
@@ -21,7 +21,7 @@ Specialized in **.NET Web API** and **Angular**, with proven experience in scala
 - End-to-end implementation of a **prize roulette system** at POS: campaign & stock management through automated coupon delivery, reducing manual intervention in the promotions flow
 - Team collaboration via **Git** with structured branching (`feature/`, `bug-fix/`)
 
----
+
 
 ### Rules Engine - PromoEngine *(Academic — ORT)*
 
@@ -35,17 +35,34 @@ Specialized in **.NET Web API** and **Angular**, with proven experience in scala
 - **.NET 8 Web API** with layered architecture, **Repository Pattern** and **dependency injection**, decoupling business logic from data access and enabling unit testing; persistence managed with **Entity Framework Core**
 - CI with automated unit tests using **xUnit + FluentAssertions** and **TypedResults** on endpoints; overlapping rules, compound conditions, and recursion edge cases covered before every deploy
 
----
+
 
 <h2 align="center">Education</h2>
 
-| Degree | Institution | Period |
-|:------:|:-----------:|:------:|
-| [Information Technology Analyst](https://drive.google.com/file/d/1pS-CQ_-fJY8ZYJ_fdmTNzz7AtuF0y1YL/view?usp=sharing) | ORT University | Aug 2023 – Present |
-| [Web Developer](https://drive.google.com/file/d/1XAitRof6mxgevTNlcwwcnU0CLNQa1LHm/view?usp=sharing) *(GPA: 92%)* | ORT University | Aug 2023 – Jul 2025 |
-| [IT Technologist](https://eduterciaria.utu.edu.uy/2024/06/18/tecnologo-en-informatica) | UTU | Mar 2023 – Nov 2025 |
+<table align="center">
+  <tr>
+    <th>Degree</th>
+    <th>Institution</th>
+    <th>Period</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://drive.google.com/file/d/1pS-CQ_-fJY8ZYJ_fdmTNzz7AtuF0y1YL/view?usp=sharing">Information Technology Analyst</a></td>
+    <td align="center">ORT University</td>
+    <td align="center">Aug 2023 – Present</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://drive.google.com/file/d/1XAitRof6mxgevTNlcwwcnU0CLNQa1LHm/view?usp=sharing">Web Developer</a> <em>(GPA: 92%)</em></td>
+    <td align="center">ORT University</td>
+    <td align="center">Aug 2023 – Jul 2025</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://eduterciaria.utu.edu.uy/2024/06/18/tecnologo-en-informatica">IT Technologist</a></td>
+    <td align="center">UTU</td>
+    <td align="center">Mar 2023 – Nov 2025</td>
+  </tr>
+</table>
 
----
+
 
 <h2 align="center">Tech Stack</h2>
 
@@ -63,13 +80,9 @@ Specialized in **.NET Web API** and **Angular**, with proven experience in scala
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-<h2 align="center">GitHub Stats — vicenzomh</h2>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicenzomh&theme=tokyonight" />
-</p>
+### GitHub Stats — vicenzomh
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vicenzomh&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" />
@@ -77,10 +90,14 @@ Specialized in **.NET Web API** and **Angular**, with proven experience in scala
 </p>
 
 <p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicenzomh&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vicenzomh&theme=tokyo-night&hide_border=true&color=512BD4&line=DD0031&point=ffffff" />
 </p>
 
----
+
 
 <h2 align="center">Languages</h2>
 
@@ -88,7 +105,7 @@ Specialized in **.NET Web API** and **Angular**, with proven experience in scala
   🇬🇧 English (B2 Cambridge) · 🇪🇸 Spanish (Native) · 🇧🇷 Portuguese (Native)
 </p>
 
----
+
 
 <h2 align="center">Connect</h2>
 
